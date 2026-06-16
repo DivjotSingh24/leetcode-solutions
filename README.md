@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
