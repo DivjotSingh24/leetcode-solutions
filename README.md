@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
