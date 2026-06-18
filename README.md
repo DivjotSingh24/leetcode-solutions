@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
