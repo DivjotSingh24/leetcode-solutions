@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1901-find-a-peak-element-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1840-maximum-building-height](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1840-maximum-building-height) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->
