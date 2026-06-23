@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1732-find-the-highest-altitude](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
