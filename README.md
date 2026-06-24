@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Counting Sort
 |  |
 | ------- |
