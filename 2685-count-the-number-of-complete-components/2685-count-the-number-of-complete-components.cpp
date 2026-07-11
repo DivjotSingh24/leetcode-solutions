@@ -18,8 +18,8 @@ public:
             q.push(i);
             vis[i] = true;
 
-            int nodes = 0;//number of nodes in the component
-            int edgeCount = 0; //total edges in the component
+            int nodes = 0;
+            int edgeCount = 0; 
 
             while (!q.empty()) {
                 int u = q.front();
