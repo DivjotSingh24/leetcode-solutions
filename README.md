@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Counting Sort
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Hash Table
 |  |
 | ------- |
