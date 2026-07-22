@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
