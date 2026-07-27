@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //T.C-> O(2^9*k)
+    //S.C-> O(C(9,k) × k)
     //target is basically the remaining sum we need to achieve
     void solve(int start, int k, int target, vector<vector<int>> &ans, vector<int> &ds ){
         if(k==0){
