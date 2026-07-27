@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
