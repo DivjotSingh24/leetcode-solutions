@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0078-subsets) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
@@ -284,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/DivjotSingh24/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
